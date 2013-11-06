@@ -36,6 +36,10 @@ gem 'rspec-rails'
 
 gem 'nokogiri'
 
+gem 'httparty'
+
+gem 'pry'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
