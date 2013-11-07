@@ -40,6 +40,12 @@ gem 'httparty'
 
 gem 'pry'
 
+# gem 'awesome_print', '1.1.0'
+# gem 'hirb', '0.7.0'
+# gem 'better_errors', '0.3.2'
+# gem 'binding_of_caller', '0.6.8'
+# gem 'meta_request',  '0.2.1'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
